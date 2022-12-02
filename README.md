@@ -1,2 +1,5 @@
 #Run Application
-Open with code editor and run main application.
+
+Open with code editor
+
+run main application.
